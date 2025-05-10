@@ -1,4 +1,5 @@
 # House-pricing
+🏠 Machine Learning project predicting California house prices with Flask web deployment. Features regression models, interactive UI, and REST API for real-time price estimation based on location, size, and demographic data.
 
 ![image](https://github.com/user-attachments/assets/3b32e62f-bbbd-4acd-81dd-8c52936e0e0c)
 
